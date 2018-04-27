@@ -28,7 +28,7 @@
 		<h3>Segurança da Informação(Extra)</h3>
 		<ul>
 			<li><a href="cidal.jsp">1 - Pilares(Cidal)</a></li>
-			<li><a href="cidal.jsp">1 - Pilares(Cidal)</a></li>
+			<li><a href="tiposataque.jsp">2 - Tipos de Ataque</a></li>
 		</ul>
 	</div>
 </nav>
