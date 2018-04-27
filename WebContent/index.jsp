@@ -14,7 +14,7 @@
 	<main>
 	<div id="content">
 		<div class="innertube">
-			<h1>Aqui vai o conteudo</h1>
+			<h1>Aqui vai o titulo do conteudo</h1>
 			Conteudo
 		</div>
 	</div>
