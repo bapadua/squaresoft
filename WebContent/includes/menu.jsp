@@ -29,6 +29,7 @@
 		<ul>
 			<li><a href="cidal.jsp">1 - Pilares(Cidal)</a></li>
 			<li><a href="tiposataque.jsp">2 - Tipos de Ataque</a></li>
+			<li><a href="contramedidas.jsp">3 - Contra Medidas</a></li>
 		</ul>
 	</div>
 </nav>
