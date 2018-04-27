@@ -16,7 +16,6 @@
 			<li><a href="while.jsp">3 - Laço While</a></li>
 			<li><a href="switch.jsp">4 - Switch</a></li>
 
-
 		</ul>
 		<h3>Funções</h3>
 		<ul>
