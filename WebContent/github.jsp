@@ -65,7 +65,11 @@
 				<dt><b>git checkout (tag)</b></dt>
 				<dd>Troca os arquivos para a versão da tag</dd>
 				
-
+				<dt><b>git branch nomedobranch</b></dt>
+				<dd>cria um novo ramo(branch)</dd>
+				
+				<dt><b>git checkout -b nomedobranch</b></dt>
+				<dd>cria um novo ramo e já efetua a troca</dd>
 			</dl>
 		</div>
 	</div>
