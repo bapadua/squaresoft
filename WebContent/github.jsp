@@ -50,6 +50,22 @@
 				<dt><b>git commit -a -m "Mensagem"</b></dt>
 				<dd>salva as alterações sem precisar adicionar os arquivos(git add)</dd>
 				
+				<dt><b>git tag</b></dt>
+				<dd>mostra as tags disponíveis</dd>
+				
+				<dt><b>git tag -a Versao1.0 -m "Mensagem"</b></dt>
+				<dd>Cria uma etiqueta para o commit atual</dd>
+				
+				<dt><b>git tag -a Versao1.0 INSEREAQUIACHAVEDOCOMMIT -m "Mensagem"</b></dt>
+				<dd>Cria uma etiqueta para um commit pela chave</dd>
+				
+				<dt><b>git show Versao1.0(tag)</b></dt>
+				<dd>Mostra detalhes da tag, autor, data e commit</dd>
+				
+				<dt><b>git checkout (tag)</b></dt>
+				<dd>Troca os arquivos para a versão da tag</dd>
+				
+
 			</dl>
 		</div>
 	</div>
