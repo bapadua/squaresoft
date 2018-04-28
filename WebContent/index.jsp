@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="./css/style.css">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta charset="utf-8">
-<title>Curso Java JSP::Softsquare Sergio Cordeiro</title>
+<title>Curso Java JSP::Softsquare Sergio Cordeiro	</title>
 </head>
 <body>
 <%@include file="./includes/header.jsp"%>	
