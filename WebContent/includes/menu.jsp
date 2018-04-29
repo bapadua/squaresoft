@@ -14,43 +14,44 @@ if(session.getAttribute("user") != null){
 		<h3>Básico</h3>
 		<ul>
 			<li><a onmouseover="previewUrl(this.href, 'div1')" href="index.jsp">Home</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="outprint.jsp">1 - Hello World</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="vars.jsp">2 - Variaveis</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="varoutput.jsp"> 3 - Saida de Variaveis</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="send.jsp">4 - Enviar Parâmetros</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="declaration.jsp">5 - Declarar Variaveis</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="outprint.jsp">Print</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="vars.jsp">Variaveis</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="varoutput.jsp">Saida de Variaveis</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="send.jsp">Enviar Parâmetros</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="declaration.jsp">Declarar Variaveis</a></li>
 		</ul>
 		<h3>Controles de Fluxo</h3>
 		<ul>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="for.jsp">1 - Laço For</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="formifelse.jsp">2 - Form If Else</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="while.jsp">3 - Laço While</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="switch.jsp">4 - Switch</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="for.jsp">Laço For</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="formifelse.jsp">Form If Else</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="while.jsp">Laço While</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="switch.jsp">Switch</a></li>
 
 		</ul>
 		<h3>Funções</h3>
 		<ul>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="includepage.jsp">1 - Includes</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="getip.jsp">2 - Pegar IP</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="exception.jsp">3 - Tratamento de Exceção</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="error.jsp">4 - Página de erro</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="showerrortwo.jsp">4 - Mostrar erro</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="datetime.jsp">5 - Data e Hora </a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="dateformat.jsp">6 - Formatar Data </a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="responseRedirect.jsp">7 - Redirecionar</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="login.jsp">8 - Login</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="function.jsp">Funções</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="includepage.jsp">Includes</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="getip.jsp">Pegar IP</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="exception.jsp">Tratamento de Exceção</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="error.jsp">Página de erro</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="showerrortwo.jsp">Mostrar erro</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="datetime.jsp">Data e Hora </a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="dateformat.jsp">Formatar Data </a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="responseRedirect.jsp">Redirecionar</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="login.jsp">Login</a></li>
 		</ul>
 		
 		<h3>Segurança da Informação(Extra)</h3>
 		<ul>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="cidal.jsp">1 - Pilares(Cidal)</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="tiposataque.jsp">2 - Tipos de Ataque</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="contramedidas.jsp">3 - Contra Medidas</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="cidal.jsp">Pilares(Cidal)</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="tiposataque.jsp">Tipos de Ataque</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="contramedidas.jsp">Contra Medidas</a></li>
 		</ul>
 		
 				<h3>GitHub(Extra)</h3>
 		<ul>
-		<li><a href="github.jsp">1 - Comandos</a></li>
+		<li><a href="github.jsp">Comandos</a></li>
 		</ul>
 	</div>
 </nav>
