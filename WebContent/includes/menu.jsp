@@ -34,9 +34,11 @@ if(session.getAttribute("user") != null){
 			<li><a onmouseover="previewUrl(this.href, 'div1')" href="getip.jsp">2 - Pegar IP</a></li>
 			<li><a onmouseover="previewUrl(this.href, 'div1')" href="exception.jsp">3 - Tratamento de Exceção</a></li>
 			<li><a onmouseover="previewUrl(this.href, 'div1')" href="error.jsp">4 - Página de erro</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="showerrortwo.jsp">4 - Mostrar erro</a></li>
 			<li><a onmouseover="previewUrl(this.href, 'div1')" href="datetime.jsp">5 - Data e Hora </a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="responseRedirect.jsp">6 - Redirecionar</a></li>
-			<li><a onmouseover="previewUrl(this.href, 'div1')" href="login.jsp">7 - Login</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="dateformat.jsp">6 - Formatar Data </a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="responseRedirect.jsp">7 - Redirecionar</a></li>
+			<li><a onmouseover="previewUrl(this.href, 'div1')" href="login.jsp">8 - Login</a></li>
 		</ul>
 		
 		<h3>Segurança da Informação(Extra)</h3>
