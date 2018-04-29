@@ -7,7 +7,7 @@
 			<li><a href="vars.jsp">2 - Variaveis</a></li>
 			<li><a href="varoutput.jsp"> 3 - Saida de Variaveis</a></li>
 			<li><a href="send.jsp">4 - Enviar Parâmetros</a></li>
-
+			<li><a href="declaration.jsp">5 - Declarar Variaveis</a></li>
 		</ul>
 		<h3>Controles de Fluxo</h3>
 		<ul>
