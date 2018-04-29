@@ -1,24 +1,25 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-	pageEncoding="ISO-8859-1"%>
+<%@ page isErrorPage="true"%>
 <!DOCTYPE html>
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="./css/style.css">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta charset="utf-8">
-<title>Template::</title>
+<title>Show Error::</title>
 </head>
-<body bgcolor="#f00">
+<body>
 <%@include file="./includes/header.jsp"%>	
 <div id="wrapper">
 
 	<main>
 	<div id="content">
 		<div class="innertube">
-			<h1>Conteudo</h1>
-			<div align="center">
-				PÁGINA NÃO ENCONTRADA
-			</div>
+			<h1>Mostrando Erro::</h1>
+			<br/>
+			<%
+				exception.printStackTrace(response.getWriter());
+			%>
+			<br/>
 		</div>
 	</div>
 	</main>

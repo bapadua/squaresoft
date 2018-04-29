@@ -22,6 +22,7 @@
 			<li><a href="includepage.jsp">1 - Includes</a></li>
 			<li><a href="getip.jsp">2 - Pegar IP</a></li>
 			<li><a href="exception.jsp">3 - Tratamento de Exceção</a></li>
+			<li><a href="error.jsp">4 - Página de erro</a></li>
 		</ul>
 		
 		<h3>Segurança da Informação(Extra)</h3>
