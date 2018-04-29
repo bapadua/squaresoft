@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="./css/style.css">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta charset="utf-8">
-<title>Template::</title>
+<title>logout::</title>
 </head>
 <body>
 <%@include file="./includes/header.jsp"%>	
@@ -15,7 +15,10 @@
 	<main>
 	<div id="content">
 		<div class="innertube">
-			<h1>Conteudo</h1>
+			<h1>LOGOUT::</h1>
+			<%			
+				//response.sendRedirect("index.jsp");
+			%>
 		</div>
 	</div>
 	</main>

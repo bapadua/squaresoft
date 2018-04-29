@@ -16,24 +16,29 @@
 		<div id="content">
 			<div class="innertube">
 				<h1>Login</h1>
-				<form action="profile.jsp" method="post">
-					<table>
-						<tr>
-							<td colspan="2">Info::</td>
-						</tr>
-						<tr>
-							<td>login</td>
-							<td><input type="text" name="txtlogin" /></td>
-						</tr>
-						<tr>
-							<td>senha</td>
-							<td><input type="password" name="txtsenha" /></td>
-						</tr>
-						<tr>
-							<td colspan="2"><input type="submit" value="Efetuar Login"/></td>
-						</tr>
-					</table>
-				</form>
+				<% out.println(java.util.Calendar.getInstance().getTime()); %>
+				<br />
+				<div align="center">
+					<form action="validateSession.jsp" method="post">
+						<table border="1">
+							<tr>
+								<td colspan="2">Info::</td>
+							</tr>
+							<tr>
+								<td>login</td>
+								<td><input type="text" name="txtlogin" /></td>
+							</tr>
+							<tr>
+								<td>senha</td>
+								<td><input type="password" name="txtsenha" /></td>
+							</tr>
+							<tr>
+								<td colspan="2"><input type="submit" value="Efetuar Login" /></td>
+							</tr>
+						</table>
+						</form>
+				</div>
+				
 			</div>
 		</div>
 		</main>
