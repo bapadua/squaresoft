@@ -24,6 +24,7 @@
 			<li><a href="exception.jsp">3 - Tratamento de Exceção</a></li>
 			<li><a href="error.jsp">4 - Página de erro</a></li>
 			<li><a href="datetime.jsp">5 - Data e Hora </a></li>
+			<li><a href="responseRedirect.jsp">6 - Redirecionar</a></li>
 		</ul>
 		
 		<h3>Segurança da Informação(Extra)</h3>
